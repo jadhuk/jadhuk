@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadhuk
 - 👀 I’m interested in Web Design and Development
-- 🌱 I’m currently learning JavaScript, React.js, redux, some styling libraries, and many things about Front End Development
+- 🌱 I’m currently learning about Front End Development such as javascript, typescript, styling libraries, and React
 - 💞️ I’m looking to collaborate on on Web-Development Project
 - 📫 How to reach me you can send me an E-mail : jadhuk11@gmail.com
 
